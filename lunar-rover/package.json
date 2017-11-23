@@ -4,7 +4,8 @@
   "description": "",
   "main": "Gruntfile.js",
   "scripts": {
-    "start": "grunt"
+    "start": "grunt",
+    "test": "open SpecRunner.html"
   },
   "author": "",
   "license": "ISC",
