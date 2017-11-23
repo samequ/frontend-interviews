@@ -1,4 +1,4 @@
-'use strict';
+'use strict'
 
 // Model the Moon, Lander and Rover as separate objects
 
